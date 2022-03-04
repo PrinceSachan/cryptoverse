@@ -1,7 +1,7 @@
  Cryptoverse is mobile responsive React app build with Redux-toolkit, chart-js and 'antd' (ant design).
  Where you can see all information about Crypto currencies and crypto related news.
  
- cryptoverseee-react.netlify.app
+  https://cryptoverseee-react.netlify.app
 
 ## Available Scripts
 In the project directory, you can run:
